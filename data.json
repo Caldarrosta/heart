@@ -1,0 +1,20 @@
+{
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "images": [
+     { "file": "images/foto1.JPG", "caption": "Il nostro primo viaggio" },
+    { "file": "images/foto2.JPG", "caption": "Con le nostre migliori amiche" },
+    { "file": "images/foto3.JPG", "caption": "quando il bimbo napoletano con la faina vide il pancione" },
+    { "file": "images/foto4.JPG", "caption": "skincare in casa da Vincenzo (Sopra polleria)" },
+    { "file": "images/foto5.JPG", "caption": "PO....MPEIIIII" },
+    { "file": "images/foto6.JPG", "caption": "✨" },
+    { "file": "images/foto7.JPG", "caption": "Alle terme a sobbollire" },
+    { "file": "images/foto8.JPG", "caption": "Io che reggo la torre di Siena" },
+    { "file": "images/foto9.JPG", "caption": "i lunghi viaggi in treno" },
+    { "file": "images/foto10.JPG", "caption": "la bebe dormiente (dovevo)" },
+    { "file": "images/foto11.JPG", "caption": "A Naboliiii" },
+    { "file": "images/foto12.JPG", "caption": "Noi al Mayerrr" },
+    { "file": "images/foto13.JPG", "caption": "Noi al Lagoooo" },
+    { "file": "images/foto14.JPG", "caption": "✨" }
+  ]
+}
+
